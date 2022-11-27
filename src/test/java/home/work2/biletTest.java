@@ -1,4 +1,4 @@
-package homework2;
+package home.work2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -17,6 +17,7 @@ public class biletTest {
 
    }
 }
+
 //    private static boolean getResult () {
 //        return true;
 
