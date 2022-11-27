@@ -1,21 +1,17 @@
 package home.work2;
 
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import static org.junit.jupiter.api.Assertions.assertTrue;
-
-
 
 public class biletTest {
 
     @Test
-  public void getBilet(int x) {
-       x = 100100;
-       boolean chastBilet = true;
-       assertTrue(chastBilet);
-
-   }
+    public void getBilet(int x) {
+        x = 100100;
+        boolean chastBilet = true;
+        assertTrue(chastBilet);
+    }
 }
 
 //    private static boolean getResult () {
