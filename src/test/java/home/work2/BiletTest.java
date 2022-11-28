@@ -1,14 +1,13 @@
 package home.work2;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static home.work2.Bilet.getBilet;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
-import static home.work2.bilet.getBilet;
+
+import org.junit.jupiter.api.Test;
 
 
-public class biletTest {
+public class BiletTest {
 
     @Test
     public void getBiletTest() {

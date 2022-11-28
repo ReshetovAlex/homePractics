@@ -1,6 +1,6 @@
 package home.work2;
 
-public class bilet {
+public class Bilet {
     public static boolean getBilet(int bilet) {
         //bilet = 100001;
         boolean chastliviyBilet;
