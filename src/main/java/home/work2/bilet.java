@@ -1,9 +1,9 @@
 package home.work2;
 
 public class bilet {
-    public static boolean getBilet(int bilet, boolean chastliviyBilet) {
+    public static boolean getBilet(int bilet) {
         //bilet = 100001;
-        // boolean chastliviyBilet;
+        boolean chastliviyBilet;
         int sumPervoyPoloviny;
         int sumVtoroyPoloviny;
         if ((bilet < 1000000) && (bilet > 99999)) {
